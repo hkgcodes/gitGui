@@ -1,0 +1,6 @@
+com\gitReportGeneration\util\CsvReaderUtil.class
+com\gitReportGenerator\GitLabApi\GitLabClient$1.class
+com\gitReportGenerator\main\MainApplication$1.class
+com\gitReportGenerator\GitLabApi\GitLabClient.class
+com\gitReportGenerator\main\MainApplication.class
+com\gitReportGenerator\GitLabApi\GitLabClient$2.class
